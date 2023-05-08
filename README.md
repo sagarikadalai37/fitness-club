@@ -1,4 +1,4 @@
-# GYM 
+# 
 
 ## Website Prototype
 
